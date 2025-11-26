@@ -2,7 +2,7 @@
 Personal modpack. I'm no mods expert, these are the mods that i use that i feel like a vanilla experience with QoL and optimizations. Feel free to make suggestions or corrections on the issues page
 
 Sorry if there are missing links, i just exported the list and the mrpack from my instance on <a href="https://prismlauncher.org/">PrismLauncher</a>
-
+if you need a mod removed from the list contact me at <a href="orieus.lesauce@gmail.com">orieus.lesauce@gmail.com</a> 
 # Modlist
 <html><body><ul>
 	<li><a href="https://modrinth.com/mod/3dskinlayers">3d-Skin-Layers</a> by tr7zw (skinlayers3d-fabric-1.9.2-mc1.21.5.jar)</li>
